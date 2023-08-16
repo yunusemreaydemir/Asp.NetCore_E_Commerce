@@ -1,0 +1,11 @@
+C:\Users\AYDEMİR\Source\Repos\ProgramRestore\ProgramRestore\bin\Debug\ProgramRestore.exe.config
+C:\Users\AYDEMİR\Source\Repos\ProgramRestore\ProgramRestore\bin\Debug\ProgramRestore.exe
+C:\Users\AYDEMİR\Source\Repos\ProgramRestore\ProgramRestore\bin\Debug\ProgramRestore.pdb
+C:\Users\AYDEMİR\Source\Repos\ProgramRestore\ProgramRestore\obj\Debug\ProgramRestore.csproj.AssemblyReference.cache
+C:\Users\AYDEMİR\Source\Repos\ProgramRestore\ProgramRestore\obj\Debug\ProgramRestore.csproj.SuggestedBindingRedirects.cache
+C:\Users\AYDEMİR\Source\Repos\ProgramRestore\ProgramRestore\obj\Debug\ProgramRestore.Form1.resources
+C:\Users\AYDEMİR\Source\Repos\ProgramRestore\ProgramRestore\obj\Debug\ProgramRestore.Properties.Resources.resources
+C:\Users\AYDEMİR\Source\Repos\ProgramRestore\ProgramRestore\obj\Debug\ProgramRestore.csproj.GenerateResource.cache
+C:\Users\AYDEMİR\Source\Repos\ProgramRestore\ProgramRestore\obj\Debug\ProgramRestore.csproj.CoreCompileInputs.cache
+C:\Users\AYDEMİR\Source\Repos\ProgramRestore\ProgramRestore\obj\Debug\ProgramRestore.exe
+C:\Users\AYDEMİR\Source\Repos\ProgramRestore\ProgramRestore\obj\Debug\ProgramRestore.pdb
